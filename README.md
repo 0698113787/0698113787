@@ -1,4 +1,4 @@
-## Hi there 👋 **Portfolio :**https://mgazi.onrender.com
+## Hi there 👋 Portfolio : https://mgazi.onrender.com
 
 Hi 👋 My name is Andile Ntshangase passionate about being a Data Scientist and also comfortable in being a software developer.
 I’m an IT student with strong foundation in programming Csharp, python with flask framework, did Data structure and algorithm(basics), PHP, SQL,Java, HTML ,CSS and familiar with Excel i have experience with data structure,Machine Learning and software development, I’m eager to learn and expand my skill set, currently exploring java and JavaScript etc ,.  * 🌍  I'm based in South Africa Durban * ✉️  You can contact me at [vuyiswaandile176@gmail.com](mailto:vuyiswaandile176@gmail.com) * 🧠  I'm learning JavaScript , SQL , python framework, Django , Flusk and Java * 🤝  I'm open to collaborating on Data Analyst and Software Developer * ⚡  I’m still a student who’s eager to learn
